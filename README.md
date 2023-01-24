@@ -1,5 +1,4 @@
 # Marketing-Campaign-Analysis
-Marketing Campaign Analysis
 
 Marketing campaigns are one of the popular methods to adopted by banks to enhance their business and increase their custormers. Use of direct marketing when customer segmentation is known is still widely used by many Banks. Telemarketing, digital marketing etc utilize remote interactions through a contact center or digital media respectively. Such direct campaigns can be improved in their efficiency through the use of data-driven business intelligence tools.
 In this analysis we are provided with a data-set  form UCI Machine Learning repository) that contains marketing campaign results of a Portuguese bank with ~41,000 candidates profile with 20 features to predict the success of the future campaigns. 
